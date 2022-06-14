@@ -25,4 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atahantutar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atahantutar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atahantutar&show_icons=true&locale=en&theme=tokyonight" alt="atahantutar" /></p>
-<div> <img src="https://wakatime.com/badge/user/11ef00a7-3370-4084-a4aa-e308f8f49178.svg"/> </div>
+
