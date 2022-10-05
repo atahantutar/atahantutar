@@ -3,9 +3,9 @@
 
 <a href="https://wakatime.com/@11ef00a7-3370-4084-a4aa-e308f8f49178"><img src="https://wakatime.com/badge/user/11ef00a7-3370-4084-a4aa-e308f8f49178.svg" alt="Total time coded since Jun 14 2022" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atahantutar&label=Profile%20views&color=0e75b6&style=flat" alt="atahantutar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atahantutar&label=Profile%20views&color=0e75b6&style=flat" alt="atahantutar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/atahanttr" target="blank"><img src="https://img.shields.io/twitter/follow/atahanttr?logo=twitter&style=for-the-badge" alt="atahanttr" /></a> </p>
+<p align="center"> <a href="https://twitter.com/atahanttr" target="blank"><img src="https://img.shields.io/twitter/follow/atahanttr?logo=twitter&style=for-the-badge" alt="atahanttr" /></a> </p>
 
 - 🌱 I’m currently learning **C#,C,Java,Html5,Css3,Javascript**
 
