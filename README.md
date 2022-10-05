@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atahan Tutar</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<a href="https://wakatime.com/@11ef00a7-3370-4084-a4aa-e308f8f49178"><img src="https://wakatime.com/badge/user/11ef00a7-3370-4084-a4aa-e308f8f49178.svg" alt="Total time coded since Jun 14 2022" style="text-align:center" /></a>
+<a  href="https://wakatime.com/@11ef00a7-3370-4084-a4aa-e308f8f49178">
+<img style="text-align:center" src="https://wakatime.com/badge/user/11ef00a7-3370-4084-a4aa-e308f8f49178.svg" alt="Total time coded since Jun 14 2022"  />
+</a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=atahantutar&label=Profile%20views&color=0e75b6&style=flat" alt="atahantutar" /> </p>
 
