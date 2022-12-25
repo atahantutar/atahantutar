@@ -9,8 +9,6 @@
 
 <p align="center"> <a href="https://twitter.com/atahanttr" target="blank"><img src="https://img.shields.io/twitter/follow/atahanttr?logo=twitter&style=for-the-badge" alt="atahanttr" /></a> </p>
 
-<p align="center">- 🌱 I’m currently learning **C#,C,Java,Html5,Css3,Javascript**</p>
-<p align="center">- 📝 I regularly write articles on [https://medium.com/@atahantutar69](https://medium.com/@atahantutar69)</p>
 <p align="center">- 📫 How to reach me **atahantutar69@gmail.com**</p>
 
 
