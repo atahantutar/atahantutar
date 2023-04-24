@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
+</p>
 <h1 align="center">Hi 👋, I'm Atahan Tutar</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 <div align="center">
