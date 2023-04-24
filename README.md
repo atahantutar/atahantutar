@@ -29,9 +29,20 @@
 </p>
 
 
+<p href="https://github.com/atahantutar" align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atahantutar&layout=compact&langs_count=8&theme=algolia"/> 
+</p>
+
+<p href="https://github.com/atahantutar" align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atahantutar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=atahantutar&theme=algolia" alt="atahantutar" /></p>
+
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atahantutar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atahantutar" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atahantutar&show_icons=true&locale=en&theme=tokyonight" alt="atahantutar" /></p>
 
