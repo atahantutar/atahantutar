@@ -28,7 +28,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
- 
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -66,7 +65,7 @@
       height="40"
     />
   </a>
-   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
@@ -97,7 +96,7 @@
       alt="bootstrap"
       width="40"
       height="40"
-     style="color: red"
+      style="color: darkorchid"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -148,6 +147,7 @@
     />
   </a>
 </p>
+
 
 
 
