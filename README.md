@@ -96,6 +96,7 @@
       alt="bootstrap"
       width="40"
       height="40"
+     style="color: red"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
