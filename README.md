@@ -151,7 +151,7 @@
 
 
 
-<p href="https://github.com/atahantutar" align="center">
+<p href="https://github.com/atahantutar" >
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atahantutar&layout=compact&langs_count=8&theme=algolia"/> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atahantutar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
