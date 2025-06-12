@@ -148,8 +148,7 @@
   </a>
 </p>
 
-
-
+![github contribution grid snake animation](https://github.com/atahantutar/snake/blob/output/snake.svg)
 
 <p href="https://github.com/atahantutar"  align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atahantutar&layout=compact&langs_count=8&theme=algolia"/> 
