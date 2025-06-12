@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule: # Her Pazartesi çalışır (günde 2 kez isteniyorsa cron düzeltilmeli)
-    - cron: '* * * *1'
+    - cron: '* * * * 1'
 
   workflow_dispatch:
 
